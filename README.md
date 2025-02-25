@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="1500" src="https://docs.vespura.com/vmenu/images/favicon.png"  />
+  <img height="150" src="https://docs.vespura.com/vmenu/images/favicon.png"  />
 </div>
 
 ###
