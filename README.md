@@ -17,13 +17,8 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
+h3 align="left">👩‍💻 About Me</h3>
+<p align="left">I'm a passionate Web Developer from [tu país] 🌍<br><br> - 🔭 Currently working on exciting web projects! 🚀<br> - 📚 Constantly learning and improving my skills in JavaScript, React, Tailwind CSS & Next.js 💡<br> - 🎨 I love crafting beautiful and functional UIs with modern frontend technologies ✨<br> - ⚡ In my free time, I enjoy coding, exploring new tech, and building cool stuff! 💻</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
